@@ -77,5 +77,4 @@ dart run build_runner build --delete-conflicting-outputs
 
 ## Author
 
-**Oladimeji Micheal Tomisin**, Full-Stack & AI Engineer
-GitHub: [@Mickool17](https://github.com/Mickool17)
+Built by [@Mickool17](https://github.com/Mickool17)
